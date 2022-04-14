@@ -110,6 +110,11 @@
   padding: 0 40px;
 }
 
+.footer__copy {
+  text-decoration: none;
+  color: #fff;
+}
+
 .logo_place_footer {
   width: 50px;
 }
